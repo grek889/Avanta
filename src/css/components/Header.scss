@@ -1,0 +1,12 @@
+.header{
+    width: 550px;
+    display: flex;
+    flex-direction: column;
+    padding: 40px 60px;
+    
+    color: #FFFFFF;
+
+    &__title{
+        margin-bottom: 20px;
+    }
+}

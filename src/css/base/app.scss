@@ -1,0 +1,27 @@
+// app global css in SCSS form
+
+* {
+  margin: 0;
+}
+
+body {
+  font-family: "Circe", sans-serif;
+}
+
+li {
+  list-style-type: none;
+}
+
+h1 {
+  font-family: 'Circe Bold', sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 118%;
+}
+
+h6 {
+  font-family: 'Circe Extra Light', sans-serif;
+  font-weight: 350;
+  font-size: 16px;
+  line-height: 122%;
+}
